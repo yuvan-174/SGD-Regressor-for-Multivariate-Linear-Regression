@@ -1,7 +1,7 @@
 # SGD-Regressor-for-Multivariate-Linear-Regression
 
 ## AIM:
-To write a program to predict the price of the house and number of occupants in the house using the SGD regressor.
+To write a program to predict the price of the house and number of occupants in the house with SGD regressor.
 
 ## Equipments Required:
 1. Hardware – PCs
@@ -16,7 +16,7 @@ To write a program to predict the price of the house and number of occupants in 
 ## Program:
 ```
 /*
-Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house using the SGD regressor.
+Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
 Developed by: 
 RegisterNumber:  
 */
@@ -27,4 +27,4 @@ RegisterNumber:
 
 
 ## Result:
-Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house is written and verified using python programming.
+Thus the program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor is written and verified using python programming.
